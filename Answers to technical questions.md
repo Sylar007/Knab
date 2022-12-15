@@ -5,10 +5,11 @@ Answer 1. Due to personal matters, i have only managed to complete the task with
 If I get more time I would focus on the following features addition to this project.
 
 1. Adding more test scenarios.
-2. Fetching encoded appsettings file values from Azure key-vault service.
-3. Adding a Health Checks Middleware and libraries for reporting the health of app infrastructure components
+2. Configure the application on docker environment with makefile so it easier for the evaluator to run the application with single command to run all (build & test) 
+3. Fetching encoded appsettings file values from Azure key-vault service.
+4. Adding a Health Checks Middleware and libraries for reporting the health of app infrastructure components
 https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-7.0
-4. Enforce the SSL in Web API - The SSL gives the purely secure channel with the authentication and message encryption
+5. Enforce the SSL in Web API - The SSL gives the purely secure channel with the authentication and message encryption
 
 ##### Question 2: What was the most useful feature that was added to the latest version of your language of choice? Please include a snippet of code that shows how you've used it.
 
