@@ -1,6 +1,6 @@
 # **Home Exercise - Knab API**
 The goal of this exercise is to write a web application (.Net Core web API) that accepts a cryptocurrency code 
-as input and return base currency
+as input and return base currencies
 
 ## Name: Mohd Diah A.Karim
 In the home exercise, I'm created a web application with Swagger as an UI.
