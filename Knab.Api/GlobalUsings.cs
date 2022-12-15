@@ -1,0 +1,10 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Hosting;
+global using Knab.Api.Configurations;
+global using Knab.CoinMarketCap.Client;
+global using Knab.Exchangerates.Client;
+global using Knab.Core;
+global using Swashbuckle.AspNetCore.SwaggerGen;
+global using Serilog;
+global using Serilog.Core;
+global using Serilog.Sinks.SystemConsole.Themes;
