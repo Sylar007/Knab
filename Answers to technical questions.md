@@ -1,7 +1,7 @@
 
 ##### Question 1. How long did you spend on the coding assignment? What would you add to your solution if you had more time? If you didn't spend much time on the coding assignment, then use this as an opportunity to explain what you would add.
 
-Answer 1. I spent approximately 32 to 35 hours. I spent roughly 6 hours reading the APIs documentation and getting familiar with both CoinMarketCap and ExchangeRatesApi payloads and testing their different endpoint to understand their API response. I spent around 6 hours working on project infrastructure to design it in a way that can be testable and extendible.
+Answer 1. Due to personal matters, i have only managed to complete the task within 2 weeks. I spent approximately 36 hours and roughly 4 hours reading the APIs documentation and getting familiar with both CoinMarketCap and ExchangeRatesApi payloads and testing their different endpoint to understand their API response. I spent around 6 hours working on project infrastructure to design it in a way that can be testable and extendible.
 If I get more time I would focus on the following features addition to this project.
 
 1. Adding more test scenarios.
