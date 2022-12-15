@@ -5,7 +5,7 @@ Answer 1. I spent approximately 32 to 35 hours. I spent roughly 6 hours reading 
 If I get more time I would focus on the following features addition to this project.
 
 1. Adding more test scenarios.
-2. Encode appsettings files using Azure key-vault service.
+2. Fetching encoded appsettings file values from Azure key-vault service.
 3. Adding a Health Checks Middleware and libraries for reporting the health of app infrastructure components
 https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-7.0
 4. Enforce the SSL in Web API - The SSL gives the purely secure channel with the authentication and message encryption
@@ -43,6 +43,7 @@ Just use the builder to access custom configurations as an example to get appCon
 ```
 
 ##### Question 3 How would you track down a performance issue in production? Have you ever had to do this?
+
 Answer 3: To track down the performance issue in the production the follwoing checklist would be followed on the first attempt.
 ##### Check from existing knowledge based, previous incidents history or any maintenance service from any parties:
 1. Just before proceed with technical investigation, maybe we can confirmed that the incident happened not due to any maintenance service(DB patching), or the issue is known issue from existing knowledge based.
